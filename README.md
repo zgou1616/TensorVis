@@ -18,3 +18,7 @@ Here is how to do Python programming in Paraview.
 ### Results
 Here is the computed Reynolds' stress tensor in xx direction
 ![Image in Folder](./Rey_xx.png)
+
+
+Here is one way to visualize tensor
+![Image in Folder](./tensor_vis.jpg)
