@@ -14,6 +14,11 @@ Here is a snapshot of the velocity profile in Channel flow by DNS.
 Here is how to do Python programming in Paraview.
 ![Image in Folder](./paraview.png)
 
+
+Here is code:
+![Image in Folder](./code.png)
+
+
 ---
 ### Results
 Here is the computed Reynolds' stress tensor in xx direction
