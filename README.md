@@ -32,5 +32,5 @@ Here is the computed Reynolds' stress tensor in xx direction
 ![Image in Folder](./Rey_xx.png) 
 
 We chose to use spheres to visualize the tensor field. Here is one plot.
-
+![Image in Folder](./tensor_y_overall.png) 
 ![Image in Folder](./tensor_y.png) 
